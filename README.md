@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orville-wright
 - 👀 I’m interested in all things Data
 - 🌱 I’m currently learning CRISPR
-- 💞️ I’m looking to collaborate on K8s Mayastore & openEBS
+- 💞️ I’m looking to collaborate on OpenEBS, crypto, Litecoin, Ordinals
 - 📫 How to reach me Twittter: @orvillewright | GMail: orville.wrightt | Discord: orville#7043
 
 <!---
