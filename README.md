@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orville-wright
 - 👀 I’m interested in all things Data, ML, AI, Agentics
-- 🌱 I’m currently learning CRISPR, Programable Matter, Fusion Energy
+- 🌱 I’m currently learning Agentic Systems Vibe coding
 - 💞️ I’m looking to collaborate on Agentic AI, crypto, Litecoin
 - 📫 How to reach me > Twittter: @orvillewright | GMail: orville.wrightt | reddit: u/orville_w | Discord: orville#7043
 
