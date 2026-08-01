@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things Data, ML, AI, Agentics
 - 🌱 I’m currently learning Agentic Systems, Agentic Harnessnes, Agentic Memery
 - 💞️ I’m looking to collaborate on Agentic AI, crypto, Litecoin, CRISPR
-- 📫 How to reach me > Twittter: @orvillewright | GMail: orville.wrightt | reddit: u/orville_w | Discord: orville#7043
+- 📫 How to reach me > Twittter: @orvillewright | GMail: orville.wrightt | reddit: u/orville_w | Discord: orvi11e
 
 Welcome to my Dev homepage...
 
